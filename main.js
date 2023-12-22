@@ -54,7 +54,7 @@ export function setup() {
 
 
 /**
- * Результат запуска сценариев
+ * Результат запуска сценариев html страничка
  */
 export function handleSummary(data) {
     const date = new Date();
